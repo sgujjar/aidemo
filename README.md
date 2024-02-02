@@ -15,7 +15,7 @@ page_type: sample
 urlFragment: azure-search-openai-demo
 ---
 
-# ChatGPT + Enterprise data with Azure OpenAI and AI Search
+# ChatGPT + Enterprise data with Azure OpenAI and AI Search test
 
 > [!IMPORTANT]
 > As of November 15, 2023, Azure Cognitive Search has been renamed to Azure AI Search.
